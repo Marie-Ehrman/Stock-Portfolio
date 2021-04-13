@@ -1,0 +1,25 @@
+{
+  "name": "stock-portfolio",
+  "version": "1.0.0",
+  "description": "Casey's Stock Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marie-Ehrman/Stock-Portfolio.git"
+  },
+  "author": "Marie Ehrman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marie-Ehrman/Stock-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Marie-Ehrman/Stock-Portfolio#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
